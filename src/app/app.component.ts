@@ -29,6 +29,7 @@ export class AppComponent {
       alert('Registration Successful!');
 
       // Reset the form after submission
+      //Fivya Lade
       form.reset();
     }
   }
